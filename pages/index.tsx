@@ -14,7 +14,7 @@ const Home: NextPage = () => {
 
       <main className={styles.main}>
         <h1 className={styles.title}>
-          Welcome to Next.js on Replit!
+          Welcome to Next.js on Repli
         </h1>
 
         <p className={styles.description}>
